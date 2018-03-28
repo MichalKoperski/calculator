@@ -1,10 +1,5 @@
 package com.kodilla;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
-
-@SpringBootApplication
-
 class Calculator {
     int a;
     int b;
